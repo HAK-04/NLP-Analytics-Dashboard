@@ -1,0 +1,14 @@
+praw
+python-dotenv
+chromadb
+openai
+tiktoken
+nltk
+matplotlib
+seaborn
+pandas
+scikit-learn
+wordcloud
+textblob
+streamlit
+plotly
